@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Winform C#\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|d:\\project\\winform c#\\winformsapp1\\fmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|solutionrelative:fmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|d:\\project\\winform c#\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|D:\\Project\\Winform C#\\WinFormsApp1\\fmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|solutionrelative:fmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|D:\\Project\\Winform C#\\WinFormsApp1\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|solutionrelative:flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|d:\\project\\winform c#\\winformsapp1\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|solutionrelative:flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|d:\\project\\winform c#\\winformsapp1\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0293874C-2AC5-4B92-9C4E-C7C63F719619}|WinFormsApp1.csproj|solutionrelative:flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fManager.cs",
+              "DocumentMoniker": "D:\\Project\\Winform C#\\WinFormsApp1\\fManager.cs",
+              "RelativeDocumentMoniker": "fManager.cs",
+              "ToolTip": "D:\\Project\\Winform C#\\WinFormsApp1\\fManager.cs",
+              "RelativeToolTip": "fManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:55:04.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Winform C#\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\Winform C#\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:48:15.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "D:\\Project\\Winform C#\\WinFormsApp1\\fLogin.cs",
+              "RelativeDocumentMoniker": "fLogin.cs",
+              "ToolTip": "D:\\Project\\Winform C#\\WinFormsApp1\\fLogin.cs",
+              "RelativeToolTip": "fLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:35:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fLogin.Designer.cs",
+              "DocumentMoniker": "D:\\Project\\Winform C#\\WinFormsApp1\\fLogin.Designer.cs",
+              "RelativeDocumentMoniker": "fLogin.Designer.cs",
+              "ToolTip": "D:\\Project\\Winform C#\\WinFormsApp1\\fLogin.Designer.cs",
+              "RelativeToolTip": "fLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:09:52.059Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fManager.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\Winform C#\\WinFormsApp1\\fManager.cs",
+              "RelativeDocumentMoniker": "fManager.cs",
+              "ToolTip": "D:\\Project\\Winform C#\\WinFormsApp1\\fManager.cs [Design]",
+              "RelativeToolTip": "fManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:10:45.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\Winform C#\\WinFormsApp1\\fLogin.cs",
+              "RelativeDocumentMoniker": "fLogin.cs",
+              "ToolTip": "D:\\Project\\Winform C#\\WinFormsApp1\\fLogin.cs [Design]",
+              "RelativeToolTip": "fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:08:40.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
