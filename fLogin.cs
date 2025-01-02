@@ -9,7 +9,7 @@
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+                System.Out.Print("Heelo");
         }
 
         private void panel2_Paint(object sender, PaintEventArgs e)
